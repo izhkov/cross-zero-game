@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 606px;
+  height: 606px;
+  border: 1px solid grey;
+  border-radius: 5px;
+  border-width: 2px;
+  margin: 15px auto 0 auto;
+}
+
+.fieldItem {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 120px;
+  color: #333333;
+  width: 200px;
+  height: 200px;
+  border: 1px solid grey;
+}
